@@ -4,17 +4,17 @@
 
 ---
 
-### Our Projects 🚀
+### 🚀 EdTech Projects 🚀
 
 Here are a few of our featured projects. Each one is a step toward building a better future for learning.
 
-* **[Project Name 1](https://github.com/EdTechLabs/your-project-1)** — A brief, engaging description of what the project does.
-* **[Project Name 2](https://github.com/EdTechLabs/your-project-2)** — A brief, engaging description of what the project does.
-* **[Project Name 3](https://github.com/EdTechLabs/your-project-3)** — A brief, engaging description of what the project does.
+* **[Teacher Recruitment and Retention](https://github.com/EdTechLabs/your-project-1)** — A brief, engaging description of what the project does.
+* **[High Demand Career List](https://github.com/EdTechLabs/your-project-2)** — A brief, engaging description of what the project does.
+* **[District-at-a-glance Dashboard](https://github.com/EdTechLabs/your-project-3)** — A brief, engaging description of what the project does.
 
 ---
 
-### Technologies We Use 🛠️
+### Technologies Used 🛠️
 
 We love using modern, open-source technologies to build our tools.
 
